@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Computer On Off</string>
+    <string name="app_name">Computer Log Out/Off</string>
+    <string name="turn_off_text">Turn Off</string>
+    <string name="log_out_text">Log Out</string>
+    <string name="ssh_off_text">SSH Off</string>
+    <!--<string name="server_address">IP_ADDRESS:PORT</string>-->
+    <string name="server_address">http://192.168.1.138:5000</string>
 </resources>
